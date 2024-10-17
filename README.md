@@ -14,7 +14,7 @@ I'm a research student at the University of Windsor, passionate about machine le
 -->
 
 
-- 🔭 I’m currently working on **securing Connected Autonomous Vehicles (CAVs)** by developing defenses against adversarial attacks.
+- ⚡ I’m currently working on **securing Connected Autonomous Vehicles (CAVs)** by developing defenses against adversarial attacks.
 - 🌱 I’m continuously learning and exploring advanced concepts in **AI, ML, and autonomous systems**.
 - 💬 Looking to collaborate on **Autonomous Vehicles**, **Machine Learning projects**, or **Healthcare Systems** innovations.
 - 📫 How to reach me: [ifrahzhcet@gmail.com](mailto:ifrahzhcet@gmail.com)
@@ -43,4 +43,9 @@ I'm a research student at the University of Windsor, passionate about machine le
 ### ⚡ Fun Facts:
 - ☕ Coffee and sunsets are my favorite way to unwind after a long day of research.
 - 📸 I love photography, capturing those quiet, beautiful moments in nature and people.
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=Ifrahaha)
+
+
+
 
