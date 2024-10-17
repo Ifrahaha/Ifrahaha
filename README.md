@@ -13,6 +13,7 @@ I'm a research student at the University of Windsor, passionate about machine le
 - ⚡ Fun fact: ...
 -->
 
+![GIF](https://github.com/your-username/your-repository/blob/main/your-gif.gif)
 
 - ⚡ I’m currently working on **securing Connected Autonomous Vehicles (CAVs)** by developing defenses against adversarial attacks.
 - 🌱 I’m continuously learning and exploring advanced concepts in **AI, ML, and autonomous systems**.
